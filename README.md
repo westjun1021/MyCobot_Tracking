@@ -131,10 +131,6 @@ pip install opencv-python pyserial numpy
 - Computer Vision & Robotics Developer  
 - MyCobot, ARKit, FastAPI 기반 실시간 시스템 개발 경험 보유
 
----
-
-## 📄 License  
-MIT License  
 
 
 
